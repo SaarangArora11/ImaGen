@@ -1,2 +1,0 @@
-
-::: imaginairy.api.generate.imagine

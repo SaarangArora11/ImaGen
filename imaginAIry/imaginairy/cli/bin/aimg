@@ -1,6 +1,0 @@
-#!/bin/env python
-# -*- coding: utf-8 -*-
-
-if __name__ == "__main__":
-    import imaginairy.cli.main
-    imaginairy.cli.main.aimg()

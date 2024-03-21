@@ -1,2 +1,0 @@
-
-::: imaginairy.schema.WeightedPrompt
